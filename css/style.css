@@ -1,0 +1,29 @@
+*{
+ padding: 0 ;
+ margin:  0; 
+} 
+ 
+
+.salutaion{
+    width: 100%; 
+    text-align: center;
+}
+
+.salutaion p {
+    
+    position: absolute;
+    border: 0.5px solid sienna;
+    font-family: 'Courier New', Courier, monospace ;
+    font-size: x-large ;  
+    top: 40%;
+    left: 65%;
+}
+
+.jumbotron h3 {
+    font-weight: bold;
+ color: #3173c1;
+} 
+
+.normal-img  {
+    margin-top:25px;
+}
