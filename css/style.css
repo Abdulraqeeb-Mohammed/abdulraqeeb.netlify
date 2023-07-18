@@ -3,7 +3,7 @@
  margin:  0; 
 } 
 body{
-    /* padding-top: 10px; */
+    /* padding-top: 10px; */ 
 } 
 
 .salutaion{
@@ -35,4 +35,10 @@ footer{
     font-family: 'Times New Roman', Times, serif ;
     font-size: 12px;
     color: darkslategray;
+}
+
+.designathon    {
+    width: 100%;
+    max-height: 100vh;
+    margin: auto;
 }
